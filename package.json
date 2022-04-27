@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing if applications do as intended",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnkiarie/testing.git"
+  },
+  "author": "Jimmy Kiarie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnkiarie/testing/issues"
+  },
+  "homepage": "https://github.com/jnkiarie/testing#readme",
+  "dependencies": {
+    "jest": "^28.0.2",
+    "save-dev": "^0.0.1-security"
+  }
+}
